@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  InhaleColor
+//
+//  Created by wukexiu on 17/4/21.
+//  Copyright © 2017年 com.xm.InhaleColor. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "macros.h"
+
+//扩展
+#import "UIView+Extension.h"
+#import "UIView+ColorOfPoint.h"
+#import "UIImage+Extension.h"
+#import "UIImage+ColorAtPixel.h"
+#import "NSString+Extension.h"
+#import "UITableView+Common.h"
+#import "UIColor+Extension.h"
+
+#endif /* PrefixHeader_pch */
